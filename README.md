@@ -6,12 +6,12 @@
 
 
 ## Introduction
-At Columbia University, students are always on the go, whether it's heading to class, studying for exams, or participating in extracurriculars. To make life easier, we're building CU Meals, a GrubHub-style app that provides students with quicker access to meals from both on-campus and off-campus restaurants. With CU Meals, students can:
+At Columbia University, students are always on the go, whether it's heading to class, studying for exams, or participating in extracurriculars. To make life easier, we're building CU Eats, a GrubHub-style app that provides students with quicker access to meals from both on-campus and off-campus restaurants. With CU Eats, students can:
 Quickly order meals from a variety of restaurants with just a few taps.
 Browse available meal options tailored to students' needs, including dietary preferences and quick meals between classes.
 Ordering meals that align with dietary preferences
 Finding restaurants that fit into their schedules between classes.
-CU Meals not only simplifies meal planning and ordering for busy students but also offers savings through exclusive discounts. The value for students is a more efficient and cost-effective dining experience, all while focusing on what matters most – their academics and campus life.
+CU Eats not only simplifies meal planning and ordering for busy students but also offers savings through exclusive discounts. The value for students is a more efficient and cost-effective dining experience, all while focusing on what matters most – their academics and campus life.
 
 
 ## Document
